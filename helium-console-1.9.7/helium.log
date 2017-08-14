@@ -1,0 +1,6 @@
+2017-08-14 20:09:34,220 [helium.api] [INFO] - start_chrome('http://www.bing.com')
+2017-08-14 20:09:45,328 [helium.api] [INFO] - write('cloudsystems.sa')
+2017-08-14 20:09:45,483 [helium.api] [INFO] - press(u'\ue007')
+2017-08-14 20:09:52,328 [helium.api] [INFO] - click('Cloud Systems')
+2017-08-14 20:09:57,736 [helium.api] [INFO] - click('Contact Us')
+2017-08-14 20:09:59,914 [helium.api] [INFO] - kill_browser()
